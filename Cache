@@ -1,0 +1,7 @@
+
+public class Cache{
+
+Cache(String name, int addressSize, int wordSize, int blockSize, int numLines){
+
+}
+}
